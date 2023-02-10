@@ -1,0 +1,11 @@
+a{
+    color: white;
+}
+.para{
+    text-align: justify;
+    background-color: red;
+    padding: 10%;
+    position: absolute;
+    left: 20%;
+    
+}
